@@ -1,4 +1,4 @@
-## [🚀] : Technologies / Tools
+## 🚀 : Technologies / Tools
 - Kotlin based, Coroutines for asynchronous
 - - Architecture
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
